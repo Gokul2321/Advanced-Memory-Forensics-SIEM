@@ -1,0 +1,6 @@
+*.lime
+raw_strings.txt
+vol_output.txt
+analysis_log.txt
+**pycache**/
+*.pyc
